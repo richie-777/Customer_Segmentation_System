@@ -22,3 +22,6 @@ Click here to download the Dataset - https://www.kaggle.com/datasets/kandij/mall
 
 * Accuracy Metrics (Silhoutte and Davies-Bouldin Index) 
 
+# The K-Means Overview:
+
+![image](https://github.com/richie-777/Customer_Segmentation_System/assets/79468696/c0350ab0-f8e5-4f99-af1d-77d2f1119c76)
