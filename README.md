@@ -19,3 +19,6 @@ Click here to download the Dataset - https://www.kaggle.com/datasets/kandij/mall
 * Ploting the Cluster Boundry and Clusters.
 
 * 3D Plot of Clusters.
+
+* Accuracy Metrics (Silhoutte and Davies-Bouldin Index) 
+
